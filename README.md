@@ -1,1 +1,11 @@
 # Analytics-in-Business
+
+This repository contains 2 groups projects I led during my MSc Business Analytics in 2021.
+
+## Heat Smart Orkney
+Over 310,000 Mwh of energy is curtailed each year on the Orkney Isles. This represents a significant portion of the total potential energy that can be generated on the isles. There are a large number of wind turbines there that are not being used to their full capacity currently due to insufficient demand and limited exporting capacity. This is results in lower revenue for Kaluza and wind generators, higher energy costs for residents, and increased wastage of renewable energy, going against government aims. We propose a Demand Response scheme that reduces the amount of curtailed energy by storing energy in smart heaters that can be used later in periods of high demand.
+By modelling different scenarios, our analysis finds that the amount of curtailed energy can be reduced by between 1% and 5%, depending on the penetration rate and other assumptions. Assuming a Demand Response Penetration Rate of 25%, there will be a reduction of 8,700 MWh in curtailed energy, approximately equal to a 3% reduction. Given a high level of government subsidies for both energy costs and smart heaters, a breakeven point below 4 years is achievable. Furthermore, our DR scheme not only leads to a revenue increase for Kaluza, but also leads to lower energy bills for households ( ≈ -10%), additional revenue for wind generators and an overall increase in renewable energy consumption.
+
+## OC&Gym
+Analysis of the impact of the price change that OC&Gym implemented in 2016 and strategies ideas to increase revenue further. This was done by analysing KPIs such as subscriber numbers, churn rate, revenue and lifetime value. The deep-dive into different segments has provided key insights that were used to derive recommendations that tackle the problem of stagnating revenues. The introduction of new annual memberships, both a normal and off-peak version, will increase lifetime value of subscribers and therefore improve the revenue situation of OC&Gym. Furthermore, subscriber engagement and churn must become major focus points for the company due to the high constant churn rate of 20% and the fact that improving subscriber engagement will improve lifetime value through the average length of subscription.
+
